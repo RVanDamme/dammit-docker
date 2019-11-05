@@ -29,4 +29,4 @@ RUN dammit databases --install --database-dir /dammit_database --busco-group act
     dammit databases --install --database-dir /dammit_database --busco-group proteobacteria && \
     dammit databases --install --database-dir /dammit_database --busco-group rhizobiales && \
     dammit databases --install --database-dir /dammit_database --busco-group spirochaetes && \
-    dammit databases --install --database-dir /dammit_database --busco-group tenericutes && \
+    dammit databases --install --database-dir /dammit_database --busco-group tenericutes
